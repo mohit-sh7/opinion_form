@@ -33,10 +33,14 @@ node server.js
 Open index.html in your browser to access the frontend.
 
 Folder Structure
+
 index.html – Frontend HTML file
+
 style.css – Styling
 script.js – Client-side JavaScript logic
+
 server.js – Express backend server
+
 package.json – Project metadata and dependencies
 
 Contributing
